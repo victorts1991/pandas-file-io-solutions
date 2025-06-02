@@ -1,5 +1,7 @@
 # pandas-file-io-solutions
 
+Manipulating data from multiple sources (CSV, XLSX, Google Sheets, JSON, HTML, XML, and SQLite) using Python, the Pandas library, and the Jupyter Notebook environment.
+
 1. Após executar o git clone execute os comandos abaixo na raiz do projeto:
 
 ```
